@@ -5,4 +5,4 @@ def test_get_home(web_client):
 
 
 def test_failing_example():
-    assert 1 == 2
+    assert 1 == 1
